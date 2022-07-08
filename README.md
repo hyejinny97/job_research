@@ -21,15 +21,15 @@ sw 직군 채용 공고 정보들을 기록하면서 sw 개발자가 되기 위�
 
 | 플랫폼                                                       | 자격 요건                                                    | 우대 사항                                                    |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [휴런(heuron)](https://github.com/hyejinny97/TIL/blob/master/job_research/heuron.md) | ReactJS, React, Recoil, Angular, Vue.js, Typescript, Restful API | Canvas, SVG, Redux, recoil, UI 컴포넌트, webpack, babel, 빌드/테스트/배포, webGL |
-| 그린랩스                                                     | HTML, CSS, JavaScript                                        | ReScript, GraphQL                                            |
-| [핏벳(FitPet)](https://github.com/hyejinny97/TIL/blob/master/job_research/FitPet.md) | React hook                                                   | HTML, CSS, GraphQL, TypeScript, RDBMS, NoSQL, 풀스택, AWS    |
-| [마이리얼트립](https://github.com/hyejinny97/TIL/blob/master/job_research/마이리얼트립.md) | Javascript, React.js, viewport, 웹표준 / 웹접근성, 자료구조 및 알고리즘, 사용자 중심의 UI/UX | Next.js / Typescript, Ruby On Rails,  webpack, rollup, parcel, 단위/통합 테스트 코드, 설계/개발/출시/운영 |
-| [옐로우 버스](https://github.com/hyejinny97/TIL/blob/master/job_research/옐로우버스.md) | React, HTML, CSS, JavaScript, 반응형 디자인, redux, mobx, Computer Science, REST API | TypeScript, Styled-components, Node.js, Apollo, GraphQL, DB 및 백엔드, UI/UX, Design, Git |
-| [모두의 클래스](https://github.com/hyejinny97/TIL/blob/master/job_research/모두의 클래스.md) | HTML, CSS, Javascript, React.js, 웹 표준/ 시맨틱 웹, Redux, Rest API, Git&Github, Semantic Markup 및 Sass, Stylus | SEO 최적화 및 웹 접근성, node.js, UX, Typescript             |
-| [오늘의 집](https://github.com/hyejinny97/TIL/blob/master/job_research/오늘의 집.md) | React, 서버 사이드 렌더링(SSR), MSA, BFF(Backend For Frontend), SPA Framework | 테스트 및 CI/CD, 애자일 스프린트, MVP, 컴포넌트              |
-| [무신사](https://github.com/hyejinny97/TIL/blob/master/job_research/무신사.md) | HTML/CSS/Javascript, UX/UI, Vue/React, REST API, Git         | Webpack, Rollup, Next/Nuxt, CI/CD, 코드리뷰                  |
-| [하이브](https://github.com/hyejinny97/TIL/blob/master/job_research/하이브.md) | HTML5, CSS3, Javascript(ES6), Webpack, React, 사용자 중심의 UI/UX 디자인, 블록체인 기술 | TypeScript, 비동기 처리, 반응형, 모바일 웹, web3.js, ethers,js, Vanilla Javascript,아키텍처 설계 및 제안, 코드 리뷰, 테스트 |
+| [휴런(heuron)](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/heuron.md) | ReactJS, React, Recoil, Angular, Vue.js, Typescript, Restful API | Canvas, SVG, Redux, recoil, UI 컴포넌트, webpack, babel, 빌드/테스트/배포, webGL |
+| [그린랩스](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EA%B7%B8%EB%A6%B0%EB%9E%A9%EC%8A%A4.md) | HTML, CSS, JavaScript                                        | ReScript, GraphQL                                            |
+| [핏벳(FitPet)](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/FitPet.md) | React hook                                                   | HTML, CSS, GraphQL, TypeScript, RDBMS, NoSQL, 풀스택, AWS    |
+| [마이리얼트립](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD.md) | Javascript, React.js, viewport, 웹표준 / 웹접근성, 자료구조 및 알고리즘, 사용자 중심의 UI/UX | Next.js / Typescript, Ruby On Rails,  webpack, rollup, parcel, 단위/통합 테스트 코드, 설계/개발/출시/운영 |
+| [옐로우 버스](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EC%98%90%EB%A1%9C%EC%9A%B0%EB%B2%84%EC%8A%A4.md) | React, HTML, CSS, JavaScript, 반응형 디자인, redux, mobx, Computer Science, REST API | TypeScript, Styled-components, Node.js, Apollo, GraphQL, DB 및 백엔드, UI/UX, Design, Git |
+| [모두의 클래스](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EB%AA%A8%EB%91%90%EC%9D%98%20%ED%81%B4%EB%9E%98%EC%8A%A4.md) | HTML, CSS, Javascript, React.js, 웹 표준/ 시맨틱 웹, Redux, Rest API, Git&Github, Semantic Markup 및 Sass, Stylus | SEO 최적화 및 웹 접근성, node.js, UX, Typescript             |
+| [오늘의 집](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EC%98%A4%EB%8A%98%EC%9D%98%20%EC%A7%91.md) | React, 서버 사이드 렌더링(SSR), MSA, BFF(Backend For Frontend), SPA Framework | 테스트 및 CI/CD, 애자일 스프린트, MVP, 컴포넌트              |
+| [무신사](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%EB%AC%B4%EC%8B%A0%EC%82%AC.md) | HTML/CSS/Javascript, UX/UI, Vue/React, REST API, Git         | Webpack, Rollup, Next/Nuxt, CI/CD, 코드리뷰                  |
+| [하이브](https://github.com/hyejinny97/job_research/blob/master/Front-end.md/%ED%95%98%EC%9D%B4%EB%B8%8C.md) | HTML5, CSS3, Javascript(ES6), Webpack, React, 사용자 중심의 UI/UX 디자인, 블록체인 기술 | TypeScript, 비동기 처리, 반응형, 모바일 웹, web3.js, ethers,js, Vanilla Javascript,아키텍처 설계 및 제안, 코드 리뷰, 테스트 |
 
 > 공통 자격 요건
 
